@@ -1,0 +1,9 @@
+D:\Program\Visual Studio\Projects\OsuFileCleaner\OsuFileCleaner\bin\Release\OsuFileCleaner.exe.config
+D:\Program\Visual Studio\Projects\OsuFileCleaner\OsuFileCleaner\bin\Release\OsuFileCleaner.exe
+D:\Program\Visual Studio\Projects\OsuFileCleaner\OsuFileCleaner\bin\Release\OsuFileCleaner.pdb
+D:\Program\Visual Studio\Projects\OsuFileCleaner\OsuFileCleaner\obj\Release\OsuFileCleaner.OsuFileCleaner.resources
+D:\Program\Visual Studio\Projects\OsuFileCleaner\OsuFileCleaner\obj\Release\OsuFileCleaner.Properties.Resources.resources
+D:\Program\Visual Studio\Projects\OsuFileCleaner\OsuFileCleaner\obj\Release\OsuFileCleaner.csproj.GenerateResource.Cache
+D:\Program\Visual Studio\Projects\OsuFileCleaner\OsuFileCleaner\obj\Release\OsuFileCleaner.exe
+D:\Program\Visual Studio\Projects\OsuFileCleaner\OsuFileCleaner\obj\Release\OsuFileCleaner.pdb
+D:\Program\Visual Studio\Projects\OsuFileCleaner\OsuFileCleaner\obj\Release\OsuFileCleaner.csprojResolveAssemblyReference.cache
